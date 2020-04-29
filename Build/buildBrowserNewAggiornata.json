@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Prototipo del prototipo sistemico",
-"dataUrl": "buildBrowserNew.data.unityweb",
-"wasmCodeUrl": "buildBrowserNew.wasm.code.unityweb",
-"wasmFrameworkUrl": "buildBrowserNew.wasm.framework.unityweb",
+"dataUrl": "buildBrowserNewAggiornata.data.unityweb",
+"wasmCodeUrl": "buildBrowserNewAggiornata.wasm.code.unityweb",
+"wasmFrameworkUrl": "buildBrowserNewAggiornata.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
